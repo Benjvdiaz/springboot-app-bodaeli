@@ -88,7 +88,7 @@ public class EmailService {
                 Este es un mensaje automático, por favor no respondas a este correo.
               </p>
               <div style="text-align: center; margin-top: 20px;">
-                <a href="http://localhost:3000" style="background-color: #6c63ff; color: white; padding: 12px 25px; text-decoration: none; border-radius: 5px;">
+                <a href="https://regalos-matrimonio.onrender.com/" style="background-color: #6c63ff; color: white; padding: 12px 25px; text-decoration: none; border-radius: 5px;">
                   Volver a la tienda
                 </a>
               </div>
